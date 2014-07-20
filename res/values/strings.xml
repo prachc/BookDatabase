@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BookDatabaseActivity!</string>
+    <string name="app_name">BookDatabase</string>
+    <string name="db_name">book_database</string>
+    <string name="db_table">book_database</string>
+</resources>
